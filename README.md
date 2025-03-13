@@ -15,7 +15,8 @@
 
 ###
 
-<p align="left">I'm Dane from Yonkers <br><br> <br>- 📚 I'm currently learning CIS!!! <br>- ⚡ In my free time I like to hang out with friends </p>
+<p align="left"> <img height="40" src="MU.jpg"/> <img width="451" alt="image" src="https://github.com/user-attachments/assets/1c76d8d4-3106-4ddc-96eb-a579c49cfab3" />
+I'm Dane from Yonkers <br><br> <br>- 📚 I'm currently learning CIS!!! <br>- ⚡ In my free time I like to hang out with friends </p>
 
 ###
 
