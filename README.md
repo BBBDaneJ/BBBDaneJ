@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Dane from Yonkers <br><br>- 🔭 <br>- 📚 I'm currently learning CIS!!! <br>- ⚡ In my free time I like to hang out with friends </p>
+<p align="left">I'm Dane from Yonkers <br><br> <br>- 📚 I'm currently learning CIS!!! <br>- ⚡ In my free time I like to hang out with friends </p>
 
 ###
 
